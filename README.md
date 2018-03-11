@@ -1,2 +1,2 @@
 # todo-backend
-Backend part of todo application
+A complete todo application, composed of a frontend and a backend.
