@@ -1,4 +1,4 @@
-package com.todo.backend.model;
+package com.todo.bck.model;
 
 import javax.validation.constraints.NotBlank;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

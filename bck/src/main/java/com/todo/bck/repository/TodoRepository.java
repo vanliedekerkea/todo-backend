@@ -1,9 +1,9 @@
-package com.todo.backend.repository;
+package com.todo.bck.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.todo.backend.model.Todo;
+import com.todo.bck.model.Todo;
 
 @Repository
 public interface TodoRepository extends JpaRepository<Todo, Long>{

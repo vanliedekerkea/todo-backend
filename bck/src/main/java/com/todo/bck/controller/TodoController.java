@@ -1,11 +1,11 @@
-package com.todo.backend.controller;
+package com.todo.bck.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import com.todo.backend.model.Todo;
-import com.todo.backend.repository.TodoRepository;
+import com.todo.bck.model.Todo;
+import com.todo.bck.repository.TodoRepository;
 
 import javax.validation.Valid;
 import java.util.List;
